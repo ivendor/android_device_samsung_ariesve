@@ -38,6 +38,8 @@
 /lib/libOpenVG.so
 /lib/libaudioalsa.so
 /lib/libcamera.so
+/lib/libfmradio.so
+/lib/libfmradio.sony-iris.so
 /lib/libgemini.so
 /lib/libgsl.so
 /lib/libmmipl.so
